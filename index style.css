@@ -15,7 +15,7 @@ header {
     height: 200 px;
     text-align: center;
     position: relative;
-    background-image: url('M:/Chrome Downloads/gym-design-ideas.jpg');
+    background-image: url('./gym-design-ideas.jpg');
     background-position: center;
     background-size: 800 px;
     background-attachment: fixed;
