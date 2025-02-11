@@ -11,13 +11,13 @@ body {
 header {
     background: #222;
     color: white;
-    padding: 20 px;
-    height: 200 px;
+    padding: 20px;
+    height: 200px;
     text-align: center;
     position: relative;
     background-image: url('https://github.com/VermA-69/Gym/blob/Master/gym-design-ideas.jpg?raw=true');
     background-position: center;
-    background-size: 800 px;
+    background-size: 800px;
     background-attachment: fixed;
     background-blend-mode: overlay;
 }
